@@ -1,0 +1,28 @@
+,Name,Nationality,Position,Team,Age,Apps,Starts,Subs,Minutes,Min / app,Goals,Assists,PK,PKAtt,Fouls,Yellows,Reds,SOT,Goals PG,Goals+Asst PG,Goals no PK PG,Goals+Asst no PK PG,SOT PG,Fouls PG,Cards PG
+8,David de Gea,es,GK,Manchester United,27.0,38,38,0,"3,420",90,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0.03,0.03
+53,Paul Pogba,fr,MF,Manchester United,25.0,35,34,1,"3,011",86,13,9,7,10,54,6,0,50,0.39,0.66,0.18,0.45,1.49,1.61,1.61
+93,Victor Lindelöf,se,DF,Manchester United,24.0,30,29,1,"2,602",87,1,1,0,0,20,1,0,1,0.03,0.07,0.03,0.07,0.03,0.69,0.69
+97,Luke Shaw,eng,"DF,MF",Manchester United,23.0,29,29,0,"2,592",89,1,4,0,0,42,11,0,7,0.03,0.17,0.03,0.17,0.24,1.46,1.46
+100,Ashley Young,eng,"FW,MF,DF",Manchester United,33.0,30,28,2,"2,568",86,2,2,0,0,38,9,0,3,0.07,0.14,0.07,0.14,0.11,1.33,1.33
+116,Nemanja Matić,rs,MF,Manchester United,29.0,28,28,0,"2,440",87,1,0,0,0,27,7,0,3,0.04,0.04,0.04,0.04,0.11,1.0,1.0
+128,Marcus Rashford,eng,FW,Manchester United,20.0,33,26,7,"2,343",71,10,6,0,0,26,3,1,40,0.38,0.61,0.38,0.61,1.54,1.0,1.0
+153,Romelu Lukaku,be,FW,Manchester United,25.0,32,22,10,"2,130",67,12,0,0,0,18,4,0,32,0.51,0.51,0.51,0.51,1.35,0.76,0.76
+156,Chris Smalling,eng,DF,Manchester United,28.0,24,24,0,"2,128",89,1,0,0,0,22,1,0,3,0.04,0.04,0.04,0.04,0.13,0.93,0.93
+224,Jesse Lingard,sco,"MF,FW",Manchester United,25.0,27,19,8,"1,669",62,4,2,1,1,27,3,0,14,0.22,0.32,0.16,0.27,0.75,1.46,1.46
+230,Anthony Martial,eng,FW,Manchester United,22.0,27,18,9,"1,624",60,10,2,1,1,14,2,0,23,0.55,0.67,0.5,0.61,1.27,0.78,0.78
+254,Ander Herrera,de,MF,Manchester United,28.0,22,16,6,"1,404",64,2,3,0,0,21,4,0,8,0.13,0.32,0.13,0.32,0.51,1.35,1.35
+264,Juan Mata,kr,"MF,FW",Manchester United,30.0,22,16,6,"1,293",59,3,2,0,0,10,3,0,6,0.21,0.35,0.21,0.35,0.42,0.7,0.7
+266,Phil Jones,ie,"MF,DF",Manchester United,26.0,18,15,3,"1,261",70,0,1,0,0,8,1,0,2,0.0,0.07,0.0,0.07,0.14,0.57,0.57
+297,Fred,tr,"MF,FW",Manchester United,25.0,17,13,4,"1,044",61,1,1,0,0,25,2,0,2,0.09,0.17,0.09,0.17,0.17,2.16,2.16
+302,Diogo Dalot,br,DF,Manchester United,19.0,16,12,4,"1,014",63,0,2,0,0,12,3,0,0,0.0,0.18,0.0,0.18,0.0,1.07,1.07
+326,Alexis Sánchez,ar,"MF,FW",Manchester United,29.0,20,9,11,877,44,1,3,0,0,15,3,0,9,0.1,0.41,0.1,0.41,0.92,1.54,1.54
+329,Scott McTominay,ro,MF,Manchester United,21.0,16,9,7,861,54,2,0,0,0,11,1,0,6,0.21,0.21,0.21,0.21,0.63,1.15,1.15
+347,Marouane Fellaini,dk,MF,Manchester United,30.0,14,6,8,746,53,0,1,0,0,15,1,0,3,0.0,0.12,0.0,0.12,0.36,1.81,1.81
+363,Eric Bailly,gh,DF,Manchester United,24.0,12,8,4,636,53,0,0,0,0,5,0,1,1,0.0,0.0,0.0,0.0,0.14,0.71,0.71
+371,Andreas Pereira,eng,MF,Manchester United,22.0,15,6,9,594,40,1,1,0,0,12,5,0,2,0.15,0.3,0.15,0.3,0.3,1.82,1.82
+388,Antonio Valencia,tg,"DF,MF",Manchester United,32.0,6,5,1,466,78,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0.0,0.0,1.35,1.35
+394,Matteo Darmian,be,DF,Manchester United,28.0,6,5,1,443,74,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0.0,0.2,0.61,0.61
+427,Marcos Rojo,ar,DF,Manchester United,28.0,5,2,3,211,42,0,0,0,0,3,2,0,4,0.0,0.0,0.0,0.0,1.71,1.28,1.28
+446,Mason Greenwood,eng,MF,Manchester United,16.0,3,1,2,115,38,0,0,0,0,0,0,0,4,0.0,0.0,0.0,0.0,3.13,0.0,0.0
+485,Angel Gomes,eng,MF,Manchester United,17.0,2,0,2,25,13,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,3.6,0.0,0.0
+503,James Garner,eng,MF,Manchester United,17.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
