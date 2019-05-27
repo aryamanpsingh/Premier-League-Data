@@ -1,0 +1,49 @@
+,Unnamed: 0_x,Name,Team_x,xG,xA,xG90,xA90,Unnamed: 0_y,index,Nationality,Apps,Starts,Subs,Minutes,Min / app,Goals_x,Assists_x,PK,PKAtt,Fouls,Yellows,Reds,SOT,Goals PG,Goals+Asst PG,Goals no PK PG,Goals+Asst no PK PG,SOT PG,Fouls PG,Cards PG,Goals+Assists,Height,Pass Accuracy,Aerials won,MOTMs,Rating,Team_y,Position,Age,Image
+0,1,Sadio Mané,Liverpool,16.76,5.12,0.49,0.15,4,4,sn,36,35,1,"3,086",86,22,1,0,0,35,2,0,42,0.64,0.67,0.64,0.67,1.22,1.02,1.02,23,175,78.2,1.0,6,7.43,Liverpool,"FW,MF",26.0,img/lfc/mane.png
+1,2,Mohamed Salah,Liverpool,21.79,10.47,0.6,0.29,2,2,eg,38,37,1,"3,262",86,22,8,3,3,25,1,0,64,0.61,0.83,0.52,0.74,1.77,0.69,0.69,30,175,75.9,0.3,8,7.57,Liverpool,"MF,FW",26.0,img/lfc/salah.png
+2,17,Roberto Firmino,Liverpool,13.74,6.34,0.47,0.22,6,6,br,34,31,3,"2,620",77,12,6,1,1,40,0,0,35,0.41,0.62,0.38,0.58,1.2,1.37,1.37,18,181,80.8,0.9,4,7.2,Liverpool,"FW,MF",26.0,img/lfc/firmino.png
+3,55,Xherdan Shaqiri,Liverpool,4.06,1.89,0.35,0.16,14,14,eng,24,11,13,"1,057",44,6,3,0,0,9,2,0,10,0.51,0.77,0.51,0.77,0.85,0.77,0.77,9,169,81.2,0.1,1,6.71,Liverpool,MF,26.0,img/lfc/shaqiri.png
+4,58,James Milner,Liverpool,3.36,5.64,0.17,0.29,10,10,eng,31,19,12,"1,785",58,5,4,3,3,28,6,0,8,0.25,0.45,0.1,0.3,0.4,1.41,1.41,9,175,84.6,0.6,1,6.91,Liverpool,MF,32.0,img/lfc/milner.png
+5,82,Virgil van Dijk,Liverpool,3.51,1.27,0.09,0.03,1,1,nl,38,38,0,"3,385",89,4,2,0,0,12,1,0,10,0.11,0.16,0.11,0.16,0.27,0.32,0.32,6,193,89.7,4.8,4,7.44,Liverpool,DF,27.0,img/lfc/vvd.png
+6,92,Divock Origi,Liverpool,2.24,0.19,0.57,0.05,18,18,be,12,4,8,366,31,3,1,0,0,2,0,0,6,0.74,0.98,0.74,0.98,1.48,0.49,0.49,4,185,70.4,0.3,0,6.57,Liverpool,"FW,MF",23.0,img/lfc/origi.png
+7,104,Georginio Wijnaldum,Liverpool,3.18,1.94,0.1,0.06,5,5,nl,35,32,3,"2,736",78,3,0,0,0,19,3,0,10,0.1,0.1,0.1,0.1,0.33,0.62,0.62,3,175,91.1,0.9,1,6.89,Liverpool,MF,27.0,img/lfc/gini.png
+8,129,Daniel Sturridge,Liverpool,1.50,1.07,0.28,0.2,16,16,ke,18,4,14,496,28,2,1,0,0,5,1,0,6,0.36,0.54,0.36,0.54,1.09,0.91,0.91,3,188,80.0,0.2,0,6.41,Liverpool,"FW,MF",28.0,img/lfc/sturridge.png
+9,151,Naby Keïta,Liverpool,2.55,1.07,0.16,0.07,12,12,es,25,16,9,"1,392",56,2,1,0,0,24,0,0,10,0.13,0.19,0.13,0.19,0.65,1.55,1.55,3,172,88.5,0.4,0,6.74,Liverpool,MF,23.0,img/lfc/keita.png
+10,164,Joël Matip,Liverpool,0.90,0.18,0.05,0.01,11,11,es,22,17,5,"1,532",70,1,0,0,0,12,3,0,2,0.06,0.06,0.06,0.06,0.12,0.7,0.7,1,195,86.9,3.0,2,7.11,Liverpool,"DF,MF",26.0,img/lfc/matip.png
+11,182,Dejan Lovren,Liverpool,0.91,0.11,0.08,0.01,15,15,it,13,11,2,985,76,1,0,0,0,3,1,0,1,0.09,0.09,0.09,0.09,0.09,0.27,0.27,1,188,86.6,4.1,1,7.08,Liverpool,DF,29.0,img/lfc/lovren.png
+12,183,Jordan Henderson,Liverpool,1.51,1.69,0.07,0.08,9,9,pt,32,21,11,"1,981",62,1,3,0,0,26,2,0,1,0.05,0.18,0.05,0.18,0.05,1.18,1.18,4,182,87.2,0.8,0,6.67,Liverpool,MF,28.0,img/lfc/henderson.png
+13,221,Trent Alexander-Arnold,Liverpool,1.49,7.22,0.05,0.26,7,7,eng,29,27,2,"2,467",85,1,12,0,0,14,3,0,9,0.04,0.47,0.04,0.47,0.33,0.51,0.51,13,175,77.5,0.3,1,7.36,Liverpool,"DF,MF",19.0,img/lfc/taa.png
+14,233,Fabinho,Liverpool,1.14,1.31,0.05,0.06,8,8,py,28,21,7,"2,013",72,1,2,0,0,30,6,0,4,0.04,0.13,0.04,0.13,0.18,1.34,1.34,3,188,85.3,2.0,0,6.95,Liverpool,DF,24.0,img/lfc/fabinho.png
+15,277,Adam Lallana,Liverpool,0.30,0.54,0.06,0.11,17,17,es,13,5,8,465,36,0,0,0,0,4,1,0,3,0.0,0.0,0.0,0.0,0.58,0.77,0.77,0,172,82.1,0.7,0,6.53,Liverpool,"FW,MF",30.0,img/lfc/lallana.png
+16,358,Alex Oxlade-Chamberlain,Liverpool,0.47,0.12,2.47,0.61,21,21,pt,2,0,2,19,10,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,4.74,0.0,0.0,0,180,76.9,0.0,0,6.35,Liverpool,MF,24.0,img/lfc/ox.png
+17,361,Joe Gomez,Liverpool,0.23,0.42,0.02,0.04,13,13,be,16,12,4,"1,060",66,0,0,0,0,12,2,0,1,0.0,0.0,0.0,0.0,0.08,1.02,1.02,0,188,87.5,1.5,0,6.76,Liverpool,DF,21.0,img/lfc/gomez.png
+18,370,Alisson,Liverpool,0.00,0.00,0.0,0.0,0,0,br,38,38,0,"3,420",90,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,191,80.3,0.3,0,6.79,Liverpool,GK,25.0,img/lfc/alisson.png
+19,380,Andrew Robertson,Liverpool,0.86,8.06,0.02,0.22,3,3,sco,36,36,0,"3,219",89,0,11,0,0,20,4,0,5,0.0,0.31,0.0,0.31,0.14,0.56,0.56,11,178,83.2,0.7,1,7.12,Liverpool,DF,24.0,img/lfc/robertson.png
+20,458,Rafael Camacho,Liverpool,0.00,0.00,0.0,0.0,22,22,eng,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0,6.0,Liverpool,MF,18.0,img/lfc/camacho.png
+21,6,Harry Kane,Tottenham,16.12,4.56,0.6,0.17,26,3,eng,28,27,1,"2,427",87,17,4,4,4,31,5,0,46,0.63,0.78,0.48,0.63,1.71,1.15,1.15,21,188,73.1,1.8,6,7.38,Tottenham Hotspur,FW,25.0,img/thfc/kane.png
+22,15,Son Heung-min,Tottenham,8.36,3.97,0.37,0.17,30,7,us,31,23,8,"2,047",66,12,6,0,0,11,2,1,29,0.53,0.79,0.53,0.79,1.28,0.48,0.48,18,183,85.6,0.1,4,7.1,Tottenham Hotspur,"MF,FW",26.0,img/thfc/son.png
+23,30,Lucas Moura,Tottenham,7.59,1.66,0.32,0.07,29,6,br,32,25,7,"2,128",67,10,0,0,0,25,3,0,20,0.42,0.42,0.42,0.42,0.85,1.06,1.06,10,172,76.1,1.1,3,6.96,Tottenham Hotspur,"FW,MF",25.0,img/thfc/moura.png
+24,35,Christian Eriksen,Tottenham,5.66,7.88,0.18,0.26,25,2,dk,35,30,5,"2,772",79,8,12,0,0,17,3,0,31,0.26,0.65,0.26,0.65,1.01,0.55,0.55,20,182,81.0,0.4,2,7.08,Tottenham Hotspur,"DF,MF",26.0,img/thfc/eriksen.png
+25,62,Dele Alli,Tottenham,5.95,3.29,0.29,0.16,34,11,fr,25,22,3,"1,832",73,5,3,0,0,23,4,0,19,0.25,0.39,0.25,0.39,0.93,1.13,1.13,8,188,80.3,0.8,1,6.95,Tottenham Hotspur,MF,22.0,img/thfc/alli.png
+26,78,Érik Lamela,Tottenham,3.76,2.17,0.35,0.2,38,15,be,19,9,10,972,51,4,2,0,0,23,2,0,11,0.37,0.56,0.37,0.56,1.02,2.13,2.13,6,181,83.2,0.2,1,6.77,Tottenham Hotspur,"MF,FW",26.0,img/thfc/lamela.png
+27,100,Eric Dier,Tottenham,1.42,1.10,0.08,0.07,37,14,cm,20,18,2,"1,509",76,3,0,0,0,24,4,0,3,0.18,0.18,0.18,0.18,0.18,1.43,1.43,3,188,84.9,1.8,0,6.74,Tottenham Hotspur,"DF,MF",24.0,img/thfc/dier.png
+28,190,Jan Vertonghen,Tottenham,1.01,0.24,0.05,0.01,32,9,jm,22,22,0,"1,913",87,1,0,0,0,11,4,0,2,0.05,0.05,0.05,0.05,0.09,0.52,0.52,1,189,87.5,2.3,1,6.89,Tottenham Hotspur,DF,31.0,img/thfc/vertonghen.png
+29,191,Kieran Trippier,Tottenham,0.46,4.85,0.02,0.19,28,5,eng,27,26,1,"2,278",84,1,3,0,0,20,2,0,3,0.04,0.16,0.04,0.16,0.12,0.79,0.79,4,178,78.9,1.1,1,7.1,Tottenham Hotspur,DF,27.0,img/thfc/trippier.png
+30,203,Victor Wanyama,Tottenham,1.08,0.06,0.19,0.01,43,20,ie,13,4,9,512,39,1,0,0,0,10,2,0,2,0.18,0.18,0.18,0.18,0.35,1.76,1.76,1,188,81.0,1.1,0,6.53,Tottenham Hotspur,MF,27.0,img/thfc/wanyama.png
+31,209,Harry Winks,Tottenham,1.09,0.24,0.06,0.01,36,13,eng,26,17,9,"1,592",61,1,0,0,0,17,4,0,2,0.06,0.06,0.06,0.06,0.11,0.96,0.96,1,178,91.8,0.5,1,6.55,Tottenham Hotspur,MF,22.0,img/thfc/winks.png
+32,217,Fernando Llorente,Tottenham,3.50,2.01,0.47,0.27,40,17,eng,20,6,14,683,34,1,4,0,0,12,2,0,5,0.13,0.66,0.13,0.66,0.66,1.58,1.58,5,193,66.4,2.7,0,6.49,Tottenham Hotspur,FW,33.0,/img/thfc/llorente.png
+33,247,Davinson Sánchez,Tottenham,1.62,0.62,0.08,0.03,31,8,ie,23,22,1,"1,943",85,1,1,0,0,20,2,0,3,0.05,0.09,0.05,0.09,0.14,0.93,0.93,2,187,89.9,2.9,0,6.83,Tottenham Hotspur,DF,22.0,img/thfc/sanchez.png
+34,248,Juan Foyth,Tottenham,0.70,0.79,0.07,0.08,39,16,co,12,10,2,888,74,1,0,0,0,16,3,1,1,0.1,0.1,0.1,0.1,0.1,1.62,1.62,1,179,85.2,2.1,1,6.93,Tottenham Hotspur,DF,20.0,img/thfc/foyth.png
+35,316,Hugo Lloris,Tottenham,0.00,0.00,0.0,0.0,23,0,fr,33,33,0,"2,970",90,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,188,73.6,0.3,2,6.96,Tottenham Hotspur,GK,31.0,img/thfc/lloris.png
+36,317,Toby Alderweireld,Tottenham,0.99,0.49,0.03,0.02,24,1,be,34,33,1,"2,923",86,0,0,0,0,10,3,0,5,0.0,0.0,0.0,0.0,0.15,0.31,0.31,0,187,88.5,1.6,0,6.84,Tottenham Hotspur,DF,29.0,img/thfc/toby.png
+37,318,Danny Rose,Tottenham,0.80,2.59,0.04,0.13,35,12,cm,26,20,6,"1,798",69,0,3,0,0,26,5,0,2,0.0,0.15,0.0,0.15,0.1,1.3,1.3,3,173,73.7,1.0,1,6.84,Tottenham Hotspur,"MF,DF",28.0,img/thfc/rose.png
+38,319,Mousa Dembélé,Tottenham,0.03,0.00,0.01,0.0,42,19,jp,10,7,3,516,52,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0.0,0.0,2.09,2.09,0,185,89.6,0.6,0,6.38,Tottenham Hotspur,MF,31.0,img/thfc/dembele.png
+39,320,Michel Vorm,Tottenham,0.00,0.00,0.0,0.0,47,24,nl,2,2,0,180,90,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,183,77.3,0.5,1,6.85,Tottenham Hotspur,GK,34.0,img/thfc/worm.png
+40,321,Ben Davies,Tottenham,0.57,2.25,0.03,0.11,33,10,ch,27,20,7,"1,839",68,0,0,0,0,18,2,0,1,0.0,0.0,0.0,0.0,0.05,0.88,0.88,0,181,82.8,1.7,1,6.69,Tottenham Hotspur,DF,25.0,img/thfc/davies.png
+41,340,Moussa Sissoko,Tottenham,0.96,2.79,0.04,0.11,27,4,fr,29,27,2,"2,336",81,0,3,0,0,25,2,0,3,0.0,0.12,0.0,0.12,0.12,0.96,0.96,3,187,86.7,0.8,0,6.75,Tottenham Hotspur,MF,28.0,img/thfc/sissoko.png
+42,354,Kyle Walker-Peters,Tottenham,0.35,0.48,0.08,0.12,44,21,eng,6,4,2,374,62,0,3,0,0,4,1,0,0,0.0,0.72,0.0,0.72,0.0,0.96,0.96,3,173,83.0,0.5,0,6.95,Tottenham Hotspur,DF,21.0,img/thfc/walkers-peters.png
+43,359,Paulo Gazzaniga,Tottenham,0.00,0.00,0.0,0.0,45,22,ar,3,3,0,270,90,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,196,64.2,0.0,0,7.14,Tottenham Hotspur,GK,26.0,img/thfc/gazza.png
+44,385,Vincent Janssen,Tottenham,0.31,0.00,0.81,0.0,48,25,eng,3,0,3,36,12,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0.0,2.5,5.0,5.0,0,180,77.8,1.0,0,6.3,Tottenham Hotspur,FW,24.0,img/thfc/janssen.png
+45,408,Serge Aurier,Tottenham,0.14,1.26,0.02,0.2,41,18,cz,8,6,2,563,70,0,2,0,0,17,1,0,1,0.0,0.32,0.0,0.32,0.16,2.72,2.72,2,176,75.5,1.5,0,6.85,Tottenham Hotspur,DF,25.0,/img/thfc/aurier.png
+46,460,Luke Amos,Tottenham,0.00,0.00,0.0,0.0,50,27,eng,1,0,1,2,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,179,33.3,1.0,0,6.13,Tottenham Hotspur,MF,21.0,img/thfc/amos.png
+47,483,Oliver Skipp,Tottenham,0.06,0.03,0.02,0.01,46,23,eng,8,2,6,216,27,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0.0,0.0,1.67,1.67,0,0,83.9,1.3,0,6.38,Tottenham Hotspur,MF,17.0,img/thfc/skipp.png
